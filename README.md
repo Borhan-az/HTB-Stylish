@@ -1,1 +1,1 @@
-Exploit of stylish CTF challenge
+## Exploit of stylish CTF challenge
